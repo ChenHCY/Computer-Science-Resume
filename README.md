@@ -1,6 +1,6 @@
 # Computer-Science-Resume
 
-Chenyu Yang | Bachelor of Science in Computer Science | 
+Chenyu Yang | Bachelor of Science in Computer Science | GPA：3.63 / 4.00
 
 The SJSU President’s Scholar Award (GPA Top 10%) Spring 2020
 
